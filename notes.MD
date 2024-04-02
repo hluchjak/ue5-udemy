@@ -1,0 +1,6 @@
+- Change antialliasing
+  - FXAA
+- Motion Blur
+  - disable
+- Auto Exposure
+  - off 
